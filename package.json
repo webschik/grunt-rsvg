@@ -1,0 +1,22 @@
+{
+  "name": "grunt-rsvg",
+  "version": "0.1.0",
+  "description": "Grunt task for rsvg library",
+  "main": "tasks/rsvg.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webschik/grunt-rsvg.git"
+  },
+  "keywords": [
+    "grunt",
+    "rsvg",
+    "svg",
+    "convert"
+  ],
+  "author": "webschik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webschik/grunt-rsvg/issues"
+  },
+  "homepage": "https://github.com/webschik/grunt-rsvg#readme"
+}
